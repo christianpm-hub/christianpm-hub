@@ -2,19 +2,19 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Mi nombre es Christian, soy un joven estudiante de desarrollo web, de España</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mi</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Técnico en Sistemas Microinformáticos y redes<br>📚 Estoy estudiando Desarrollo de aplicaciones web<br>🎯 Lo que más me gusta de la informática es la programación<br>🎲 Me gusta mucho el deporte</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Se programar con Python, y actualmente estoy aprendiendo más lenguajes</h2>
 
 ###
 
