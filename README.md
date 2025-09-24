@@ -21,8 +21,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://imgs.search.brave.com/hlNhN-eEvWPCdmhXdvqgaKl6H5MS4x4lHa7d8oiV_kU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nbWFydC5jb20v/ZmlsZXMvNy9QeXRo/b24tVHJhbnNwYXJl/bnQtQmFja2dyb3Vu/ZC5wbmc">
-  <img width="12" />
 </div>
 
 ###
