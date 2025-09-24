@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Técnico en Sistemas Microinformáticos y redes<br>📚 Estoy estudiando Desarrollo de aplicaciones web<br>🎯 Lo que más me gusta de la informática es la programación<br>🎲 Me gusta mucho el deporte</p>
+<p align="left">✨ Técnico en Sistemas Microinformáticos y redes<br>📚 Estoy estudiando Desarrollo de aplicaciones web<br>🎯 Lo que más me gusta de la informática es la programación<br>🎲 Me gusta mucho la natación</p>
 
 ###
 
