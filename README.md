@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">¡Hola! 👋 ¿Qué tal?</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Se programar con Python, y actualmente estoy aprendiendo más lenguajes</h2>
+<h2 align="left">Lenguajes de programación adquiridos</h2>
 
 ###
 
