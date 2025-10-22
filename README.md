@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://imgs.search.brave.com/6jH8WVRV74YArvf6PEnEu1xRDRPF80Sj_tH5nK15NmA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91eHdp/bmcuY29tL3dwLWNv/bnRlbnQvdGhlbWVz/L3V4d2luZy9kb3du/bG9hZC9icmFuZHMt/Y  W5kLXNvY2lhbC1t/ZWRpYS9odG1sLWlj/b24ucG5n" height="40" alt="HTML logo"  />
+  <img src="https://imgs.search.brave.com/E4d1AdXrFPtVvIGX8gDQzVAh6wbsrIkFkZE_0iz0YzU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni81OTY4LzU5Njgy/NjcucG5nP3NlbXQ9/YWlzX3doaXRlX2xh/YmVs" height="40" alt="HTML logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
