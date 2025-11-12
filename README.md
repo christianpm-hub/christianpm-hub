@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo" />
   <img width="12" />
-  <img width="96" height="96" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo.png" alt="external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo"/>
+  <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo.png" alt="external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo"/>
   <img width="24"/>
 </div>
 <div align="center">
