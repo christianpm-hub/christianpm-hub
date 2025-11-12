@@ -27,6 +27,8 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo" />
   <img width="12" />
+  <img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo.png" alt="external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo"/>
+  <img width="24"/>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=christianpm-hub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
