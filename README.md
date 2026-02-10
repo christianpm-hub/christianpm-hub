@@ -18,18 +18,22 @@
 
 ###
 
-<div align="left">
-  <img src="https://imgs.search.brave.com/E4d1AdXrFPtVvIGX8gDQzVAh6wbsrIkFkZE_0iz0YzU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni81OTY4LzU5Njgy/NjcucG5nP3NlbXQ9/YWlzX3doaXRlX2xh/YmVs" height="40" alt="HTML logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo.png" alt="external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo"/>
-  <img width="24"/>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+
 <div align="center">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=christianpm-hub&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=christianpm-hub&layout=compact&langs_count=8&theme=algolia"/>
